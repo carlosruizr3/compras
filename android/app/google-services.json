@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772591492511",
+    "project_id": "compras-ab14d",
+    "storage_bucket": "compras-ab14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772591492511:android:692d8b96288ea3b5b8b1aa",
+        "android_client_info": {
+          "package_name": "com.example.compras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772591492511-85u5bajrpgi4k68s61q9g1kgra3arts1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qeep3fLNWQfVVW6fb-Bz3kJ-awbqmaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772591492511-85u5bajrpgi4k68s61q9g1kgra3arts1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
